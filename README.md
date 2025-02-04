@@ -1,4 +1,4 @@
-# **ASDA Webmaster's Guide to Affordable, Fast, and Customizable Websites**
+# **ASDA Webmaxter's Guide to Affordable, Fast, and Customizable Websites**
 
 ## **Introduction**
 
@@ -129,4 +129,4 @@ This repository will be updated as the project evolves. If you have **suggestion
 
 By working together, we can build a **cost-effective, fast, and reliable** website solution for ASDA chapters and future dental practices.
 
-**Let’s make website hosting simple and affordable! 🚀**
+**Trust me, if you can do a filling, you can make a website... probably... feel free to reach out :^D 🚀**
