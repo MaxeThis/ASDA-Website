@@ -74,8 +74,9 @@ It's crucial to **renew your domain every year**—if it expires, someone else c
 
 ---
 
-### **3. Restore the Website Backup**
+### **3. Restore the Website Backup (Optional, but recommended)**
 - _FYI: You will be using your ip address to access your website_
+- Click [here](https://umbasda.org/?page_id=425) for umbsod ASDA download link to serve as a template for your chapter's site.
 1. Install the **All-in-One WP Migration by ServMask** plugin.
 2. Use it to **import the ************`umbasda-org.wpress`************ file**.
    - This resets the WordPress server but may interfere with domain settings, so do this **before setting up the domain**.
