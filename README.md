@@ -6,7 +6,7 @@ Welcome to the ASDA Webmaster’s repository! This project is dedicated to helpi
 
 Many dental students and future dentists will eventually manage their own practice websites. Understanding website infrastructure now will prepare us to make informed decisions later.
 
-My name is Max [\[Insta\]](https://www.instagram.com/maxterr12/)[\[LinkedIn\]](https://www.linkedin.com/in/maxwellmendelson/), I am the WebMaxter for the University of Maryland School of Dentistry ASDA chapter. This past year, I moved our chapter website from wix to WordPress on a DigitalOcean server. You can check it out [here](https://umbasda.org/). We are now saving a lot of money and I wanted to share this process with other chapters!
+My name is Max \([\[Insta\]](https://www.instagram.com/maxterr12/) [\[LinkedIn\]](https://www.linkedin.com/in/maxwellmendelson/)\), I am the WebMaxter for the University of Maryland School of Dentistry ASDA chapter. This past year, I moved our chapter website from wix to WordPress on a DigitalOcean server. You can check it out [here](https://umbasda.org/). We are now saving a lot of money and I wanted to share this process with other chapters!
 
 ## **Why WordPress?**
 
